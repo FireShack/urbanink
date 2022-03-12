@@ -59,16 +59,16 @@ export const NavbarComp = () => {
                 <Link to="/" className="nav-link text-center">
                   Home
                 </Link>
-                <Link to="/men" className="nav-link text-center">
+                <Link to="/products/men" className="nav-link text-center">
                   Men's
                 </Link>
-                <Link to="/women" className="nav-link text-center">
+                <Link to="/products/women" className="nav-link text-center">
                   Women's
                 </Link>
-                <Link to="/footwear" className="nav-link text-center">
+                <Link to="/products/footwear" className="nav-link text-center">
                   Footwear
                 </Link>
-                <Link to="/accesories" className="nav-link text-center">
+                <Link to="/products/accesories" className="nav-link text-center">
                   Accesories
                 </Link>
               </Nav>

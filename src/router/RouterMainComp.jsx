@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { startFetchData } from "../actions/cart";
+import { FooterComp } from "../componentes/home/FooterComp";
 import { NavbarComp } from "../componentes/navbar/NavbarComp";
 import { AuthRoutesComp } from "./AuthRoutesComp";
 import { DashboardComp } from "./DashboardComp";
@@ -23,6 +24,7 @@ export const RouterMainComp = () => {
             <Route path="/*" element={<DashboardComp />} />
           </Routes>
         </div>
+        <FooterComp />
       </Router>
     </>
   );

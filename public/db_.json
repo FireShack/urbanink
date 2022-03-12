@@ -1,0 +1,1086 @@
+{
+  "all-data": [
+    {
+      "id": "home-data-most-wanted-1",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/11/O1.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/11/O1.jpg",
+      "reviews_description": [
+        {
+          "id": 123,
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Puma sneakers",
+      "section": "section-home-most-wanted",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "RS-Fast",
+      "price": 30
+    },
+    {
+      "id": "home-data-most-wanted-2",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/BENT.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/BENT.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Complete Outfit",
+      "section": "section-home-most-wanted",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 120
+    },
+    {
+      "id": "home-data-most-wanted-3",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/hcap8-21.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/hcap8-21.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Artificial Houky Cap",
+      "section": "section-home-most-wanted",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 25.99
+    },
+    {
+      "id": "home-data-most-wanted-4",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/Hcap6-21.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/Hcap6-21.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Huoky Stage Cap",
+      "section": "section-home-most-wanted",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 26.99
+    },
+    {
+      "id": "home-data-most-wanted-5",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/CAMENT.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/CAMENT.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Black & White Outfit",
+      "section": "section-home-most-wanted",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Black&White Collection",
+      "price": 150.99
+    },
+    {
+      "id": "home-data-most-wanted-6",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/09/AMAMED.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/09/AMAMED.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Urban x Houky Jumper",
+      "section": "section-home-most-wanted",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 85
+    },
+    {
+      "id": "home-data-most-wanted-7",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-12.43.07-1.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-05-at-12.43.07.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Turquoise X White",
+      "section": "section-home-most-wanted",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 150.99
+    },
+    {
+      "id": "home-data-other-products-8",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/beigemed-1.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/BEIGEENT.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Brown X Black",
+      "section": "section-home-other-products",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 125
+    },
+    {
+      "id": "home-data-other-products-9",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/1002model2.jpg.webp",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/1002model1.jpg.webp",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Turquoise X White",
+      "section": "section-home-other-products",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 125
+    },
+    {
+      "id": "home-data-other-products-10",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/PIRAMED.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/PIRAENT.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Turquoise X White",
+      "section": "section-home-other-products",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 125
+    },
+    {
+      "id": "home-data-other-products-11",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-29-at-08.10.44.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-29-at-08.10.43.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Turquoise X White",
+      "section": "section-home-other-products",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 125
+    },
+    {
+      "id": "home-data-other-products-12",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/RMED.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/RENT.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Turquoise X White",
+      "section": "section-home-other-products",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 125
+    },
+    {
+      "id": "home-data-other-products-13",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/11/REDMED-1.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/11/redent-1.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Turquoise X White",
+      "section": "section-home-other-products",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 125
+    },
+    {
+      "id": "home-data-other-products-14",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/hcap10-21.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/hcap10-21b.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "Turquoise X White",
+      "section": "section-home-other-products",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. Urban X Houky",
+      "description": "Urban X Houky Collection",
+      "price": 125
+    },
+
+    {
+      "id": "men-section-data-1",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/25-02-dream2.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/25-02-dream2.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "DREAMER T-SHIRT",
+      "section": "section-men",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ZARA",
+      "description": "ZARA AND M51 COLLECTION",
+      "price": 30.99
+    },
+    {
+      "id": "men-section-data-2",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/TIMED.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/TIMED.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "TORA T-SHIRT",
+      "section": "section-men",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ZARA",
+      "description": "ZARA AND M51 COLLECTION",
+      "price": 30.99
+    },
+    {
+      "id": "men-section-data-3",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/B-30730-fries-6.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/B-30730-fries-6.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "FRIES T-SHIRT",
+      "section": "section-men",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ZARA",
+      "description": "ZARA AND M51 COLLECTION",
+      "price": 25.99
+    },
+    {
+      "id": "men-section-data-4",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/B2123-kids4.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/B2123-kids5.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "BABUCHA KIDS",
+      "section": "section-men",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ZARA",
+      "description": "ZARA AND M51 COLLECTION",
+      "price": 26.99
+    },
+    {
+      "id": "men-section-data-5",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/25-02-medias4.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/25-02-medias4.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "BATUK SOCKS",
+      "section": "sectio-menn",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ZARA",
+      "description": "ZARA AND M51 COLLECTION",
+      "price": 10.99
+    },
+    {
+      "id": "men-section-data-6",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/rosamed-2.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/ROSAENT-2.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NAVY T-SHIRT",
+      "section": "section-men",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ZARA",
+      "description": "ZARA AND M51 COLLECTION",
+      "price": 23.99
+    },
+    {
+      "id": "men-section-data-7",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/b1495notdown1.jpg.webp",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/b1495notdown2.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NOT DOWN HOODIE",
+      "section": "section-men",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ZARA",
+      "description": "ZARA AND M51 COLLECTION",
+      "price": 50.99
+    },
+    {
+      "id": "men-section-data-8",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/01/1801remenatural.jpg.webp",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/01/1801remenatural.jpg.webp",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NATURAL T-SHIRT",
+      "section": "section-men",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ZARA",
+      "description": "ZARA AND M51 COLLECTION",
+      "price": 125
+    },
+    {
+      "id": "men-section-data-9",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/01/2701remebeer2.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/01/2701remebeer3.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "PUMPED T-SHIRT",
+      "section": "section-men",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ZARA",
+      "description": "ZARA AND M51 COLLECTION",
+      "price": 39.85
+    },
+    {
+      "id": "men-section-data-10",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/CALAMED.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/CALAENT.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "SNAKE T-SHIRT",
+      "section": "section-men",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ZARA",
+      "description": "ZARA AND M51 COLLECTION",
+      "price": 29.99
+    },
+    {
+      "id": "women-section-data-1",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/1602-goofy2.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/1602-goofy1.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "GOOFY T-SHIRT",
+      "section": "section-women",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. WINTER COLLECTION",
+      "description": "DIOR BY DOLCE & GABANNA",
+      "price": 30.99
+    },
+    {
+      "id": "women-section-data-2",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/BM-3364-grap-2.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/BM-3364-grap-1.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "GRAP T-SHIRT",
+      "section": "section-women",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. WINTER COLLECTION",
+      "description": "DIOR BY DOLCE & GABANNA",
+      "price": 30.99
+    },
+    {
+      "id": "women-section-data-3",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/reme3398self1.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/reme3398self2.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "SELF CARE T-SHIRT",
+      "section": "section-women",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. WINTER COLLECTION",
+      "description": "DIOR BY DOLCE & GABANNA",
+      "price": 25.99
+    },
+    {
+      "id": "women-section-data-4",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/reme3308tiger2.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/02/pantalon7139britney1.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "TIGER T-SHIRT",
+      "section": "section-women",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. WINTER COLLECTION",
+      "description": "DIOR BY DOLCE & GABANNA",
+      "price": 26.99
+    },
+    {
+      "id": "women-section-data-5",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/01/SUNENT.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/01/SUNMED.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "SUNKISS T-SHIRT",
+      "section": "section-women",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. WINTER COLLECTION",
+      "description": "DIOR BY DOLCE & GABANNA",
+      "price": 40.99
+    },
+    {
+      "id": "women-section-data-6",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/01/DAYMED.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/01/DAYENT.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "PLANET T-SHIRT",
+      "section": "section-women",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. WINTER COLLECTION",
+      "description": "DIOR BY DOLCE & GABANNA",
+      "price": 30.99
+    },
+    {
+      "id": "women-section-data-7",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/1001campe3-1.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/1001campe2-1.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "ISLAND T-SHIRT",
+      "section": "section-women",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. WINTER COLLECTION",
+      "description": "DIOR BY DOLCE & GABANNA",
+      "price": 50.99
+    },
+    {
+      "id": "women-section-data-8",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-16-at-12.35.34-2.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-16-at-12.35.34.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "SONIC JACKET",
+      "section": "section-women",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. WINTER COLLECTION",
+      "description": "DIOR BY DOLCE & GABANNA",
+      "price": 35.99
+    },
+    {
+      "id": "women-section-data-9",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/BONMED.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/BONENT.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "LONDRA T-SHIRT",
+      "section": "section-women",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. WINTER COLLECTION",
+      "description": "DIOR BY DOLCE & GABANNA",
+      "price": 35.98
+    },
+    {
+      "id": "women-section-data-10",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/11/jvmed.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/11/JVDET.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "PILM HOODIE",
+      "section": "section-women",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. WINTER COLLECTION",
+      "description": "DIOR BY DOLCE & GABANNA",
+      "price": 56.99
+    },
+    {
+      "id": "footwear-section-data-1",
+      "img": "https://primedia.primark.com/i/primark/210206157-01?w=1000&h=1000&img404=missing_product&v=1646450189641&locale=es-*,en-*,*",
+      "img_2": "https://primedia.primark.com/i/primark/210206157-01?w=1000&h=1000&img404=missing_product&v=1646450189641&locale=es-*,en-*,*",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "CREAM RUNNING SHOES ",
+      "section": "section-footwear",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
+      "description": "PRIMARK COLLECTION SHOES",
+      "price": 30
+    },
+    {
+      "id": "footwear-section-data-2",
+      "img": "https://primedia.primark.com/i/primark/210137391-01?w=1000&h=1000&img404=missing_product&v=1646450262634&locale=es-*,en-*,*",
+      "img_2": "https://primedia.primark.com/i/primark/210137391-01?w=1000&h=1000&img404=missing_product&v=1646450262634&locale=es-*,en-*,*",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "BLACK HEELS",
+      "section": "section-footwear",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
+      "description": "PRIMARK COLLECTION SHOES",
+      "price": 40.99
+    },
+    {
+      "id": "footwear-section-data-3",
+      "img": "https://primedia.primark.com/i/primark/210214706-01?w=1000&h=1000&img404=missing_product&v=1646450196586&locale=es-*,en-*,*",
+      "img_2": "https://primedia.primark.com/i/primark/210214706-01?w=1000&h=1000&img404=missing_product&v=1646450196586&locale=es-*,en-*,*",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "DONDALD SHOES",
+      "section": "section-footwear",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
+      "description": "PRIMARK COLLECTION SHOES",
+      "price": 25.99
+    },
+    {
+      "id": "footwear-section-data-4",
+      "img": "https://primedia.primark.com/i/primark/210214942-01?w=1000&h=1000&img404=missing_product&v=1646450199510&locale=es-*,en-*,*",
+      "img_2": "https://primedia.primark.com/i/primark/210214942-01?w=1000&h=1000&img404=missing_product&v=1646450199510&locale=es-*,en-*,*",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "MINNIE SHOES",
+      "section": "section-footwear",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
+      "description": "PRIMARK COLLECTION SHOES",
+      "price": 26.99
+    },
+    {
+      "id": "footwear-section-data-5",
+      "img": "https://primedia.primark.com/i/primark/210182407-01?w=1000&h=1000&img404=missing_product&v=1646450207330&locale=es-*,en-*,*",
+      "img_2": "https://primedia.primark.com/i/primark/210182407-01?w=1000&h=1000&img404=missing_product&v=1646450207330&locale=es-*,en-*,*",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "GREEN MOUNTAIN SHOES",
+      "section": "section-footwear",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
+      "description": "PRIMARK COLLECTION SHOES",
+      "price": 50.99
+    },
+    {
+      "id": "footwear-section-data-6",
+      "img": "https://primedia.primark.com/i/primark/210142494-01?w=1000&h=1000&img404=missing_product&v=1646450211145&locale=es-*,en-*,*",
+      "img_2": "https://primedia.primark.com/i/primark/210142494-01?w=1000&h=1000&img404=missing_product&v=1646450211145&locale=es-*,en-*,*",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "SPORT SHOES",
+      "section": "section-footwear",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
+      "description": "PRIMARK COLLECTION SHOES",
+      "price": 67.8
+    },
+    {
+      "id": "footwear-section-data-7",
+      "img": "https://primedia.primark.com/i/primark/210093037-01?w=1000&h=1000&img404=missing_product&v=1646450212772&locale=es-*,en-*,*",
+      "img_2": "https://primedia.primark.com/i/primark/210093037-01?w=1000&h=1000&img404=missing_product&v=1646450212772&locale=es-*,en-*,*",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "LIGH BROWN BOOTS",
+      "section": "section-footwear",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
+      "description": "PRIMARK COLLECTION SHOES",
+      "price": 50.99
+    },
+    {
+      "id": "footwear-section-data-8",
+      "img": "https://primedia.primark.com/i/primark/210134709-01?w=1000&h=1000&img404=missing_product&v=1646450215730&locale=es-*,en-*,*",
+      "img_2": "https://primedia.primark.com/i/primark/210134709-01?w=1000&h=1000&img404=missing_product&v=1646450215730&locale=es-*,en-*,*",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "BLACK MOCCASINS",
+      "section": "section-footwear",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
+      "description": "PRIMARK COLLECTION SHOES",
+      "price": 35.99
+    },
+    {
+      "id": "footwear-section-data-9",
+      "img": "https://primedia.primark.com/i/primark/210082382-01?w=1000&h=1000&img404=missing_product&v=1646450218173&locale=es-*,en-*,*",
+      "img_2": "https://primedia.primark.com/i/primark/210082382-01?w=1000&h=1000&img404=missing_product&v=1646450218173&locale=es-*,en-*,*",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "WHITE SPORT SHOES",
+      "section": "section-footwear",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ",
+      "description": "PRIMARK COLLECTION SHOES",
+      "price": 45.99
+    },
+    {
+      "id": "footwear-section-data-10",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-14-at-10.29.34-1.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-14-at-10.29.35.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "MAREA SHOES",
+      "section": "section-footwear",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
+      "description": "PRIMARK COLLECTION SHOES",
+      "price": 40.99
+    },
+    {
+      "id": "accesories-section-data-1",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-16-at-11.47.52-9.jpeg.webp",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-16-at-11.47.52-8.jpeg.webp",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NECESER HELIX",
+      "section": "section-accesories",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 30.99
+    },
+    {
+      "id": "accesories-section-data-2",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-16-at-14.07.39-1.jpeg.webp",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-16-at-14.07.39-3.jpeg.webp",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "MILAN MASK",
+      "section": "section-accesories",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 40
+    },
+    {
+      "id": "accesories-section-data-3",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/05/BOL2.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/05/BOL1.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "JEAN BAG",
+      "section": "section-accesories",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 50
+    },
+    {
+      "id": "accesories-section-data-4",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-16-at-12.14.39-3.jpeg.webp",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-16-at-12.14.39-2.jpeg.webp",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "KIDNEY BAG",
+      "section": "section-accesories",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 26.99
+    },
+    {
+      "id": "accesories-section-data-5",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/01/BOLSAWEB.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/01/B3-1.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "LAKE BAG",
+      "section": "section-accesories",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 150.99
+    },
+    {
+      "id": "accesories-section-data-6",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/Sesion-sin-titulo00488-scaled.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/12/piludet.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "MANGO PILUSO",
+      "section": "section-accesories",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 60.99
+    },
+    {
+      "id": "accesories-section-data-7",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-01-at-14.21.44-1.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-01-at-14.21.44.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "MORRAL SOLID",
+      "section": "section-accesories",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 50.99
+    },
+    {
+      "id": "accesories-section-data-8",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2020/11/WhatsApp-Image-2021-09-08-at-13.24.08.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2020/11/WhatsApp-Image-2021-09-08-at-13.24.08-1.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "BOXER BATUK",
+      "section": "section-accesories",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 25.99
+    },
+    {
+      "id": "accesories-section-data-9",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2020/09/004-11.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2020/09/002-11.jpg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "PILUSO BATUK",
+      "section": "section-accesories",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 25
+    },
+    {
+      "id": "accesories-section-data-10",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NECESER BATUK",
+      "section": "section-accesories",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 30.99
+    },
+    {
+      "id": "suggestions-data-1",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NECESER BATUK",
+      "section": "section-suggestions",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 30.99
+    },
+    {
+      "id": "suggestions-data-2",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NECESER BATUK",
+      "section": "section-suggestions",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 30.99
+    },
+    {
+      "id": "suggestions-data-3",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NECESER BATUK",
+      "section": "section-suggestions",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 30.99
+    },
+    {
+      "id": "suggestions-data-5",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NECESER BATUK",
+      "section": "section-suggestions",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 30.99
+    },
+    {
+      "id": "suggestions-data-6",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NECESER BATUK",
+      "section": "section-suggestions",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 30.99
+    },
+    {
+      "id": "suggestions-data-7",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
+      "reviews_description": [
+        {
+          "userName": "Mike",
+          "stars": 4,
+          "comment": "I think that there are very comfortable"
+        }
+      ],
+      "reviews": 4.5,
+      "title": "NECESER BATUK",
+      "section": "section-suggestions",
+      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
+      "description": "ACCESORIES & JEWLERY",
+      "price": 30.99
+    }
+  ]
+}

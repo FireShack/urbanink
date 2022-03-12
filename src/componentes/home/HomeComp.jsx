@@ -5,8 +5,6 @@ import { CardProducts } from "./cards/CardProducts";
 import { OverlayCardsComp } from "./cards/OverlayCardsComp";
 import { RowCardsComp } from "./cards/RowCardsComp";
 import { RowProductCard } from "./cards/RowProductCard";
-import { FooterComp } from "./FooterComp";
-
 
 export const HomeComp = () => {
   return (
@@ -17,7 +15,6 @@ export const HomeComp = () => {
       <RowProductCard />
       <CardProducts />
       <BannerNewLocation />
-      <FooterComp />
     </div>
   );
 };

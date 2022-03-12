@@ -5,6 +5,7 @@ const initialState = {
   product: [],
   amount: null,
   cart: [],
+  total: [],
 };
 
 export const cartReducer = (state = initialState, action) => {
@@ -28,6 +29,16 @@ export const cartReducer = (state = initialState, action) => {
       return {
         ...state,
         cart: state.cart.filter((product) => product.id !== action.payload),
+      };
+    case types.totalToPay:
+      return {
+        ...state,
+        total: [...state.total, action.payload],
+      };
+    case types.repeatedItemfromCart:
+      return {
+        ...state,
+        total: [...state.cart, action.payload],
       };
 
     default:

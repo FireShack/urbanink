@@ -5,15 +5,17 @@ import { FootwearSectionComp } from "../componentes/sections/FootwearSectionComp
 import { MenSectionComp } from "../componentes/sections/MenSectionComp";
 import { WomenSectionComp } from "../componentes/sections/WomenSectionComp";
 import { ShowProductComp } from "../componentes/showProduct/ShowProductComp";
+import { CheckoutScreen } from "../componentes/userCart/CheckoutScreen";
 export const DashboardComp = () => {
   return (
     <Routes>
+      <Route path="products/men" element={<MenSectionComp />} />
+      <Route path="products/women" element={<WomenSectionComp />} />
+      <Route path="products/footwear" element={<FootwearSectionComp />} />
+      <Route path="products/accesories" element={<AccesoriesSectionComp />} />
+      <Route path="product/:productId" element={<ShowProductComp />} />
+      <Route path="user/checkout" element={<CheckoutScreen />} />
       <Route path="*" element={<HomeComp />} />
-      <Route path="product" element={<ShowProductComp />} />
-      <Route path="men" element={<MenSectionComp />} />
-      <Route path="women" element={<WomenSectionComp />} />
-      <Route path="footwear" element={<FootwearSectionComp />} />
-      <Route path="accesories" element={<AccesoriesSectionComp />} />
     </Routes>
   );
 };

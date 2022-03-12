@@ -1,5 +1,6 @@
 import React from "react";
 import { BsArrowRightShort } from "react-icons/bs";
+import { IoReturnDownForwardSharp } from "react-icons/io5";
 export const RowCardsComp = () => {
   return (
     <div className="mt-5">
@@ -23,6 +24,7 @@ export const RowCardsComp = () => {
               </p>
               <button className=" btn btn-outline-light border-0 rounded-0 text-dark w-100  btn-Row-Cards ">
                 Women by women
+                <IoReturnDownForwardSharp />
               </button>
             </div>
           </div>
@@ -42,6 +44,7 @@ export const RowCardsComp = () => {
               </p>
               <button className="btn btn-outline-light border-0 rounded-0 text-dark w-100  btn-Row-Cards ">
                 Our summer vibes
+                <IoReturnDownForwardSharp />
               </button>
             </div>
           </div>
@@ -59,6 +62,7 @@ export const RowCardsComp = () => {
               </p>
               <button className="btn btn-outline-light border-0 rounded-0 text-dark w-100  btn-Row-Cards ">
                 Check our promos
+                <IoReturnDownForwardSharp />
               </button>
             </div>
           </div>
@@ -77,6 +81,7 @@ export const RowCardsComp = () => {
               </p>
               <button className="btn btn-outline-light border-0 rounded-0 text-dark w-100  btn-Row-Cards ">
                 Check collection
+                <IoReturnDownForwardSharp />
               </button>
             </div>
           </div>

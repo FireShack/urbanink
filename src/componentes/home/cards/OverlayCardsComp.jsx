@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export const OverlayCardsComp = () => {
   return (
@@ -12,7 +13,9 @@ export const OverlayCardsComp = () => {
                   Men's clothes
                 </h1>
                 <button className="mt-3 button-card w-50 rounded-0 btn btn-outline-light border border-light">
+                <Link to="/products/men" className="text-white">
                   See more
+                </Link>
                 </button>
               </div>
             </div>
@@ -24,7 +27,9 @@ export const OverlayCardsComp = () => {
                   Women's clothes
                 </h1>
                 <button className="mt-3 button-card w-50 rounded-0 btn btn-outline-light border border-light">
+                <Link to="/products/women" className="text-white">
                   See more
+                </Link>
                 </button>
               </div>
             </div>
@@ -39,7 +44,9 @@ export const OverlayCardsComp = () => {
                   Cool Accesories
                 </h1>
                 <button className="mt-3 button-card w-50 rounded-0 btn btn-outline-light border border-light">
+                <Link to="/products/accesories" className="text-white">
                   See more
+                </Link>
                 </button>
               </div>
             </div>
@@ -51,7 +58,9 @@ export const OverlayCardsComp = () => {
                   Last footwear
                 </h1>
                 <button className="mt-3 button-card w-50 rounded-0 btn btn-outline-light border border-light">
+                <Link to="/products/footwear" className="text-white">
                   See more
+                </Link>
                 </button>
               </div>
             </div>

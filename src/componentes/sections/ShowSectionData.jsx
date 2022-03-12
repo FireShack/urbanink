@@ -1,15 +1,14 @@
 import React from "react";
-import { Carousel } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
-import { addToCart, repeatedItemfromCart } from "../../../actions/cart";
 import { BsFillBagFill } from "react-icons/bs";
+import { addToCart, repeatedItemfromCart } from "../../actions/cart";
 import { Link } from "react-router-dom";
 
-export const CardProducts = () => {
+export const ShowSectionData = ({ filterParam }) => {
   const dispatch = useDispatch();
   const { product, cart } = useSelector((state) => state.cart);
   const filtered = product.filter(
-    (products) => products.section === "section-home-other-products"
+    (products) => products.section === filterParam
   );
   const handleClick = (id, img, title, price) => {
     const productToAdd = {
@@ -19,7 +18,6 @@ export const CardProducts = () => {
       amount: 1,
       price,
     };
-    console.log(filtered);
 
     if (cart.some((product) => product.id === productToAdd.id)) {
       const update = cart.map((product) => {
@@ -32,8 +30,7 @@ export const CardProducts = () => {
       });
       const updated = update.filter((product) => product !== undefined);
       dispatch(repeatedItemfromCart(updated));
-      // console.log(updated);
-      // console.log(cart);
+
       return;
     } else {
       dispatch(addToCart(productToAdd));
@@ -41,8 +38,9 @@ export const CardProducts = () => {
   };
 
   return (
-    <div className="mt-5">
-      <div className="row mt-3">
+    <>
+      <div className="container">
+        {" "}
         <div className="row">
           {filtered.map((products) => {
             return (
@@ -51,29 +49,18 @@ export const CardProducts = () => {
                 key={products.id}
               >
                 <div className="card shadow-sm rounded-3">
-                  <Carousel>
-                    <Carousel.Item>
-                      <img
-                        src={`${products.img}`}
-                        className="d-block w-100"
-                        alt="Card-img"
-                      />
-                    </Carousel.Item>
-                    <Carousel.Item>
-                      <img
-                        src={`${products.img_2}`}
-                        className="d-block w-100"
-                        alt="Card-img"
-                      />
-                    </Carousel.Item>
-                  </Carousel>
+                  <img
+                    src={`${products.img}`}
+                    className="d-block w-100"
+                    alt="Card-img"
+                  />
 
                   <div className="card-body">
                     <h4 className="card-title text-most-wanted card-title text-center text-most">
                       {products.title}
                     </h4>
                     <div className="row d-flex justify-content-center">
-                      <span className="text-dark text-center fs-6 p-2 w-100">
+                      <span className="badge text-dark fs-6 p-2">
                         {products.description}
                       </span>
                       <div className="d-flex justify-content-center align-items-center">
@@ -104,6 +91,6 @@ export const CardProducts = () => {
           })}
         </div>
       </div>
-    </div>
+    </>
   );
 };
