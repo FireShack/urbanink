@@ -18,7 +18,6 @@ export const RowProductCard = () => {
       amount: 1,
       price,
     };
-    console.log(filtered);
 
     if (cart.some((product) => product.id === productToAdd.id)) {
       const update = cart.map((product) => {
@@ -77,8 +76,11 @@ export const RowProductCard = () => {
                       {products.title}
                     </h4>
                     <div className="row d-flex justify-content-center">
-                      <span className="badge text-dark ratio-banner rounded-pill text fs-6 p-2 ">
+                      <span className="badge text-dark fs-6 p-2">
                         {products.description}
+                      </span>
+                      <span className="badge text-dark fs-6 p-2">
+                        ${products.price}
                       </span>
                       <div className="d-flex justify-content-center align-items-center">
                         <button
@@ -88,7 +90,8 @@ export const RowProductCard = () => {
                               products.id,
                               products.img,
                               products.title,
-                              products.price
+                              products.price,
+                              products.description
                             )
                           }
                         >

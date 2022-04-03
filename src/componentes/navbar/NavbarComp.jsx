@@ -11,6 +11,7 @@ import { showElement } from "../../actions/ui";
 
 export const NavbarComp = () => {
   const { cart } = useSelector((state) => state.cart);
+  const { userAuthData } = useSelector((state) => state.auth);
   const dispatch = useDispatch();
   const handleClick = () => {
     dispatch(showElement());
@@ -34,14 +35,23 @@ export const NavbarComp = () => {
             </div>
 
             {/* Para colocar el texto en el centro agregar text-center */}
-            <Navbar.Brand className="navbar-brand ">Urban INK</Navbar.Brand>
+
+            <Navbar.Brand className="navbar-brand">Urban INK</Navbar.Brand>
             <div className="d-flex justify-content-between">
               <div className="d-sm-block d-lg-none mx-2">
-                <button className="btn border shadow-none">
-                  <Link to="/auth/login">
-                    <AiOutlineUser />
-                  </Link>
-                </button>
+                <Link
+                  to={
+                    userAuthData.uid !== null ? "/user/my-data" : "/auth/login"
+                  }
+                >
+                  {userAuthData.uid !== null ? (
+                    <button className="btn btn-dark shadow-none">
+                      Account
+                    </button>
+                  ) : (
+                    <button className="btn btn-dark shadow-none">Login</button>
+                  )}
+                </Link>
               </div>
               <div className="d-sm-block d-lg-none">
                 <UserCart />
@@ -68,8 +78,11 @@ export const NavbarComp = () => {
                 <Link to="/products/footwear" className="nav-link text-center">
                   Footwear
                 </Link>
-                <Link to="/products/accesories" className="nav-link text-center">
-                  Accesories
+                <Link
+                  to="/products/accesories"
+                  className="nav-link text-center"
+                >
+                  Accessories
                 </Link>
               </Nav>
             </Navbar.Collapse>
@@ -87,7 +100,10 @@ export const NavbarComp = () => {
           </div>
           <div className="d-none d-lg-flex mx-2 justify-content-center">
             <button className="btn border shadow-none">
-              <Link to="/auth/login" className="">
+              <Link
+                to={userAuthData.uid !== null ? "/user/my-data" : "/auth/login"}
+                className=""
+              >
                 <AiOutlineUser />
               </Link>
             </button>

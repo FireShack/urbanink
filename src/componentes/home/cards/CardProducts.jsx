@@ -4,6 +4,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { addToCart, repeatedItemfromCart } from "../../../actions/cart";
 import { BsFillBagFill } from "react-icons/bs";
 import { Link } from "react-router-dom";
+import { ShowSectionData } from "../../sections/ShowSectionData";
 
 export const CardProducts = () => {
   const dispatch = useDispatch();
@@ -32,8 +33,6 @@ export const CardProducts = () => {
       });
       const updated = update.filter((product) => product !== undefined);
       dispatch(repeatedItemfromCart(updated));
-      // console.log(updated);
-      // console.log(cart);
       return;
     } else {
       dispatch(addToCart(productToAdd));
@@ -42,68 +41,7 @@ export const CardProducts = () => {
 
   return (
     <div className="mt-5">
-      <div className="row mt-3">
-        <div className="row">
-          {filtered.map((products) => {
-            return (
-              <div
-                className="col-sm-12 mt-2 col-md-6 col-lg-4"
-                key={products.id}
-              >
-                <div className="card shadow-sm rounded-3">
-                  <Carousel>
-                    <Carousel.Item>
-                      <img
-                        src={`${products.img}`}
-                        className="d-block w-100"
-                        alt="Card-img"
-                      />
-                    </Carousel.Item>
-                    <Carousel.Item>
-                      <img
-                        src={`${products.img_2}`}
-                        className="d-block w-100"
-                        alt="Card-img"
-                      />
-                    </Carousel.Item>
-                  </Carousel>
-
-                  <div className="card-body">
-                    <h4 className="card-title text-most-wanted card-title text-center text-most">
-                      {products.title}
-                    </h4>
-                    <div className="row d-flex justify-content-center">
-                      <span className="text-dark text-center fs-6 p-2 w-100">
-                        {products.description}
-                      </span>
-                      <div className="d-flex justify-content-center align-items-center">
-                        <button
-                          className="btn btn-outline-dark rounded-0 w-75 mt-2 d-flex justify-content-center align-items-center"
-                          onClick={() =>
-                            handleClick(
-                              products.id,
-                              products.img,
-                              products.title,
-                              products.price
-                            )
-                          }
-                        >
-                          Add to cart
-                          <div className="mx-1"></div>
-                          <BsFillBagFill />
-                        </button>
-                      </div>
-                      <button className="btn btn-outline-secondary rounded-1 mt-2 w-50">
-                        <Link to={`/product/${products.id}`}>See product</Link>
-                      </button>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            );
-          })}
-        </div>
-      </div>
+      <ShowSectionData filterParam={"section-home-other-products"} />
     </div>
   );
 };

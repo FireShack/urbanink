@@ -1,8 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import { useDispatch, useSelector } from "react-redux";
-import { BsFillBagFill } from "react-icons/bs";
-import { addToCart, repeatedItemfromCart } from "../../actions/cart";
 import { ShowSectionData } from "./ShowSectionData";
 export const WomenSectionComp = () => {
   return (

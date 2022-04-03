@@ -10,9 +10,6 @@ export const BannerComp = () => {
               Be unique, be{" "}
               <span className="font-main font-underline">Urban</span>
             </p>
-            <button className="btn btn-outline-light rounded-0 p-2 w-75 shadow-none">
-              Our best products
-            </button>
           </div>
         </div>
       </div>
@@ -23,9 +20,6 @@ export const BannerComp = () => {
               Be unique, be{" "}
               <span className="font-main font-underline">Urban</span>
             </p>
-            <button className="btn btn-outline-light rounded-0 p-2 w-75 shadow-none">
-              Our best products
-            </button>
           </div>
         </div>
       </div>

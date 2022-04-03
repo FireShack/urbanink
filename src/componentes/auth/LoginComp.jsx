@@ -1,7 +1,21 @@
-import React from 'react'
+import React from "react";
+import { FcGoogle } from "react-icons/fc";
+import { LoginFormComp } from "./forms/LoginFormComp";
 
 export const LoginComp = () => {
+  const handleGoogleLogin = () => {
+    console.log("Google login");
+  };
   return (
-    <div>LoginComp</div>
-  )
-}
+    <div className="container-fluid">
+      <div className="row">
+        <div className="col-12 col-md-6 d-flex justify-content-center bg-login">
+          <div className="d-block d-md-none d-flex align-items-center">
+            <h4 className="text-white fw-bold font-secondary fs-1">Sign in</h4>
+          </div>
+        </div>
+        <LoginFormComp />
+      </div>
+    </div>
+  );
+};

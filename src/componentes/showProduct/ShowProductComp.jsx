@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { BsFillBagFill } from "react-icons/bs";
 import {
@@ -9,8 +9,10 @@ import {
 } from "react-icons/io5";
 import { Navigate, useNavigate, useParams } from "react-router-dom";
 import { addToCart, repeatedItemfromCart } from "../../actions/cart";
-import { Carousel, ToggleButton, ToggleButtonGroup } from "react-bootstrap";
+import { Carousel } from "react-bootstrap";
 import { ShowSectionData } from "../sections/ShowSectionData";
+import { ChooseSizeComp } from "./ChooseSizeComp";
+import { PaymentsComp } from "./PaymentsComp";
 
 export const ShowProductComp = () => {
   const dispatch = useDispatch();
@@ -102,9 +104,11 @@ export const ShowProductComp = () => {
                 </div>
               </div>
 
-              <div className="d-flex justify-content-center align-items-center">
+              <ChooseSizeComp />
+
+              <div className="d-flex justify-content-center align-items-center mt-4 mb-3">
                 <button
-                  className="btn btn-outline-dark rounded-0 w-75 mt-2 d-flex justify-content-center align-items-center"
+                  className="btn btn-outline-dark rounded-0 w-75  d-flex justify-content-center align-items-center"
                   onClick={handleBack}
                 >
                   <IoReturnDownBackSharp />
@@ -112,7 +116,7 @@ export const ShowProductComp = () => {
                   Go back
                 </button>
                 <button
-                  className="btn btn-outline-dark rounded-0 w-75 mt-2 d-flex justify-content-center align-items-center"
+                  className="btn btn-outline-dark rounded-0 w-75 d-flex justify-content-center align-items-center"
                   onClick={() =>
                     handleClick(
                       productFinded.id,
@@ -131,6 +135,9 @@ export const ShowProductComp = () => {
           </div>
         </div>
       </div>
+
+      <PaymentsComp />
+
       <div className="row mt-4 text-center"></div>
       <div className="row mt-4">
         <div className="col-12 col-md-6">

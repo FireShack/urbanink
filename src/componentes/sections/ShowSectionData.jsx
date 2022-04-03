@@ -10,13 +10,14 @@ export const ShowSectionData = ({ filterParam }) => {
   const filtered = product.filter(
     (products) => products.section === filterParam
   );
-  const handleClick = (id, img, title, price) => {
+  const handleClick = (id, img, title, price, description) => {
     const productToAdd = {
       id,
       img,
       title,
       amount: 1,
       price,
+      description,
     };
 
     if (cart.some((product) => product.id === productToAdd.id)) {
@@ -63,6 +64,9 @@ export const ShowSectionData = ({ filterParam }) => {
                       <span className="badge text-dark fs-6 p-2">
                         {products.description}
                       </span>
+                      <span className="badge text-dark fs-6 p-2">
+                        ${products.price}
+                      </span>
                       <div className="d-flex justify-content-center align-items-center">
                         <button
                           className="btn btn-outline-dark rounded-0 w-75 mt-2 d-flex justify-content-center align-items-center"
@@ -71,7 +75,8 @@ export const ShowSectionData = ({ filterParam }) => {
                               products.id,
                               products.img,
                               products.title,
-                              products.price
+                              products.price,
+                              products.description
                             )
                           }
                         >
