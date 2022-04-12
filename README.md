@@ -4,7 +4,7 @@ A modern E-commerce developed with the last technologies. If you are a client, y
 
 ## Preview
 
-![This is how you would see the project in a mobile device] (C:/Users/super/Pictures/Screenshots.jpg)
+![This is how you would see the project in a mobile device] (C:/Users/super/Pictures/Screenshot/urbanink.png)
 
 ## Here are some scripts to execute the project
 
