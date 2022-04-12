@@ -4,7 +4,9 @@ A modern and very complete E-commerce developed with the last technologies. If y
 
 ## Here you have the project documentation
 
-[Go to documentation](https://docs.google.com/document/d/1edq3DMbFkMcT6GvYW1VymlRjF20ZBvv2JMnYcyCX1Yo/edit?usp=sharing)
+[Go to english documentation](https://docs.google.com/document/d/1edq3DMbFkMcT6GvYW1VymlRjF20ZBvv2JMnYcyCX1Yo/edit?usp=sharing)
+[Go to spanish documentation](https://docs.google.com/document/d/1CUZgsqRY5YKX7cBR1T-3JP089XJaECT8UYDoXrtfH68/edit?usp=sharing)
+[Go to italian documentation](https://docs.google.com/document/d/19lZC9L_sGZStbdk0dfaLQNkWAa4BKse4W2295ZwO-t4/edit?usp=sharing)
 
 ## Here are some scripts to execute the project
 
