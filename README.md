@@ -1,6 +1,10 @@
 # Urban INK
 
-A modern E-commerce developed with the last technologies. If you are a client, you can use Urban INK in all your favorites devices and buy a lot of pretty clothes, footwear and accessories. If you are an administrator, in the Admin panel you can see all your ecommerce data: charts with statistics, totals earned, manage your products and much more.
+A modern and very complete E-commerce developed with the last technologies. If you are a client, you can use Urban INK in all your favorites devices and buy a lot of pretty clothes, footwear and accessories. If you are an administrator, in the Admin panel you can see all your ecommerce data: charts with statistics, totals earned, manage your products and much more.
+
+## Here you have the project documentation
+
+[Go to documentation](https://docs.google.com/document/d/1edq3DMbFkMcT6GvYW1VymlRjF20ZBvv2JMnYcyCX1Yo/edit?usp=sharing)
 
 ## Here are some scripts to execute the project
 

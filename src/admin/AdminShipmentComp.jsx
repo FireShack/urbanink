@@ -4,7 +4,7 @@ import { AdminNavSideComp } from "./AdminNavSideComp";
 export const AdminShipmentComp = () => {
   return (
     <div className="container-fluid">
-      <AdminNavSideComp />
+      <AdminNavSideComp title={"Shipments"} />
       <div className="row">
         <div className="col">
           <h5>Shipments Panel</h5>

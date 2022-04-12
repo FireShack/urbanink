@@ -6,10 +6,9 @@ export const AdminOrdersComp = () => {
   const {} = useSelector((state) => state.admin);
   return (
     <div className="container-fluid">
-      <AdminNavSideComp />
+      <AdminNavSideComp title={"Orders"} />
       <div className="row">
         <div className="col">
-          <h5>Orders Panel</h5>
           <div className="row">
             <div className="col"></div>
           </div>
