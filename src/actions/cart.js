@@ -2,6 +2,7 @@ import { types } from "../types/types";
 import { fetchData } from "../helpers/fetchData";
 import { addDoc, collection } from "firebase/firestore";
 import { db } from "../firebase/firebase-config";
+import axios from "axios";
 
 export const addToCart = (item) => ({
   type: types.addToCart,
@@ -155,6 +156,18 @@ export const saveData = () => {
 
 export const cleanUserData = () => ({
   type: types.cleanUserData,
+});
+
+export const loadDeleteAdminProduct = (id) => {
+  return async (dispatch) => {
+    dispatch(deleteAdminproduct(id));
+    await axios.delete(`http://localhost:4005/all-data/${id}`);
+  };
+};
+
+export const deleteAdminproduct = (id) => ({
+  type: types.deleteAdminProduct,
+  payload: id,
 });
 
 export const userCart = () => {};

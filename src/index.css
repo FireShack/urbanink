@@ -227,6 +227,7 @@ body {
 
 .nav-item-bg {
   background-color: #800fff;
+  cursor: pointer;
 }
 
 .nav-item-bg div {
@@ -344,4 +345,31 @@ body {
 .prod-banner {
   height: 12rem;
   color: #690dd3;
+}
+
+.add-product-active {
+  left: 100%;
+  height: 100vh;
+  background-color: #800fff;
+  border-right: 1px solid #800fff !important;
+}
+
+.add-product-disabled {
+  left: -100% !important;
+  height: 100vh;
+}
+
+.rotate-prod-menu {
+  transform: rotate(45deg);
+  transition: 0.2s;
+}
+
+.normal-prod-menu {
+  transform: rotate(0deg);
+  transition: 0.2s;
+}
+
+.overflow {
+  overflow-y: scroll;
+  overflow-x: hidden;
 }

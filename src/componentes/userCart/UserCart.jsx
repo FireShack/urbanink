@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { Button, Modal } from "react-bootstrap";
 import { IoTrash } from "react-icons/io5";
 import { useDispatch, useSelector } from "react-redux";
@@ -20,7 +20,6 @@ export const UserCart = () => {
   const handleDelete = (products) => {
     dispatch(RemovefromCart(products.id));
   };
-
   return (
     <div>
       <Modal fullscreen centered show={show} onHide={handleClose}>

@@ -1,11 +1,10 @@
 import React, { useState } from "react";
-import { Link, useLocation, useNavigate } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import { RiDashboardLine } from "react-icons/ri";
 import { BsBag } from "react-icons/bs";
 import { BiMailSend, BiTask } from "react-icons/bi";
 import {
   AiOutlineBarChart,
-  AiOutlineClose,
   AiOutlineMenu,
   AiOutlineUnorderedList,
 } from "react-icons/ai";
@@ -18,13 +17,13 @@ export const AdminNavSideComp = ({ title }) => {
   return (
     <>
       <div
-        className="row border-bottom text-white fixed-top card-db-bg-1"
+        className="row border-bottom fixed-top bg-white text-color-2"
         style={{ height: "4rem" }}
       >
         <div className="col-10 d-flex align-items-center">
-          <h1 className="fw-bold mt-1 font-secondary">{title}</h1>
+          <h1 className="m-1 font-tertiary">{title}</h1>
         </div>
-        <div className="col-2 d-flex justify-content-end">
+        <div className="col-2 d-flex justify-content-center">
           <button
             className="btn shadow-none"
             onClick={() => {
@@ -34,8 +33,8 @@ export const AdminNavSideComp = ({ title }) => {
             <div
               className={
                 show
-                  ? "p-1 text-white rounded rotate-menu"
-                  : "p-1 text-white rounded normal-menu"
+                  ? "p-1 text-color-2 rounded rotate-menu"
+                  : "p-1 text-color-2 rounded normal-menu"
               }
             >
               <AiOutlineMenu size="30px" />

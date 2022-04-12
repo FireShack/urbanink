@@ -1,4 +1,4 @@
-import React, { useMemo } from "react";
+import React, { useMemo, useState } from "react";
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -11,6 +11,7 @@ import {
   Filler,
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
+import { useSelector } from "react-redux";
 
 export const ProuctsChartComp = () => {
   ChartJS.register(
@@ -18,18 +19,40 @@ export const ProuctsChartComp = () => {
     LinearScale,
     PointElement,
     BarElement,
-
     Title,
     Tooltip,
     Legend,
     Filler
   );
+
+  const { adminOrders } = useSelector((state) => state.admin);
+  const orders = adminOrders.map((global) => global.order);
+  const mostWanted = orders.map((global) => {
+    return global.map((prod) => prod.title);
+  });
+  //   console.log(mostWanted);
+
+  let mf = 1;
+  let m = 0;
+  let item;
+  for (let i = 0; i < mostWanted[6].length; i++) {
+    for (let j = i; j < mostWanted[6].length; j++) {
+      if (mostWanted[6][i] == mostWanted[6][j]) m++;
+      if (mf < m) {
+        mf = m;
+        item = mostWanted[6][i];
+      }
+    }
+    m = 0;
+  }
+  console.log(item, mf);
+
   const data = useMemo(() => {
     return {
       datasets: [
         {
           label: "Products",
-          data: [12, 12, 54],
+          data: [mf],
           tension: 0.3,
           borderColor: "#4d0a99",
           backgroundColor: "#4d0a99",
@@ -38,7 +61,7 @@ export const ProuctsChartComp = () => {
           //   },
         },
       ],
-      labels: ["prod 1", "prod  2", "prod 3"],
+      labels: [item],
     };
   }, []);
 

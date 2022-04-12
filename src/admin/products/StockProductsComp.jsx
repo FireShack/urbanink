@@ -11,9 +11,9 @@ export const StockProductsComp = () => {
 
   return (
     <>
-      <div className="prod-banner d-flex align-items-center shadow-sm">
+      <div className="prod-banner d-flex align-items-center">
         <div className="col-12">
-          <h1>Manage all your Products here</h1>
+          <h1>Manage all your products here</h1>
         </div>
       </div>
       <div className="row mt-5">

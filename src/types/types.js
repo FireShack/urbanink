@@ -17,6 +17,8 @@ export const types = {
   orderId: "[cart] User's Order Id",
   orderDate: "[cart] User's Order Date",
   cleanUserData: "[cart] Clean User Data",
+  deleteAdminProduct: "[cart] Delete Products from the stock",
+  addAdminProduct: "[cart] Add Products to the stock",
   showElement: "[ui] Show UI Element",
   closeElement: "[ui] Close UI Element",
   AddMsg: "[ui] Add Msg",

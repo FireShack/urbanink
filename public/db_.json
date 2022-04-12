@@ -253,7 +253,6 @@
       "description": "Urban X Houky Collection",
       "price": 125
     },
-
     {
       "id": "men-section-data-1",
       "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/25-02-dream2.jpg",
@@ -633,60 +632,6 @@
       "price": 30
     },
     {
-      "id": "footwear-section-data-2",
-      "img": "https://primedia.primark.com/i/primark/210137391-01?w=1000&h=1000&img404=missing_product&v=1646450262634&locale=es-*,en-*,*",
-      "img_2": "https://primedia.primark.com/i/primark/210137391-01?w=1000&h=1000&img404=missing_product&v=1646450262634&locale=es-*,en-*,*",
-      "reviews_description": [
-        {
-          "userName": "Mike",
-          "stars": 4,
-          "comment": "I think that there are very comfortable"
-        }
-      ],
-      "reviews": 4.5,
-      "title": "BLACK HEELS",
-      "section": "section-footwear",
-      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
-      "description": "PRIMARK COLLECTION SHOES",
-      "price": 40.99
-    },
-    {
-      "id": "footwear-section-data-3",
-      "img": "https://primedia.primark.com/i/primark/210214706-01?w=1000&h=1000&img404=missing_product&v=1646450196586&locale=es-*,en-*,*",
-      "img_2": "https://primedia.primark.com/i/primark/210214706-01?w=1000&h=1000&img404=missing_product&v=1646450196586&locale=es-*,en-*,*",
-      "reviews_description": [
-        {
-          "userName": "Mike",
-          "stars": 4,
-          "comment": "I think that there are very comfortable"
-        }
-      ],
-      "reviews": 4.5,
-      "title": "DONDALD SHOES",
-      "section": "section-footwear",
-      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
-      "description": "PRIMARK COLLECTION SHOES",
-      "price": 25.99
-    },
-    {
-      "id": "footwear-section-data-4",
-      "img": "https://primedia.primark.com/i/primark/210214942-01?w=1000&h=1000&img404=missing_product&v=1646450199510&locale=es-*,en-*,*",
-      "img_2": "https://primedia.primark.com/i/primark/210214942-01?w=1000&h=1000&img404=missing_product&v=1646450199510&locale=es-*,en-*,*",
-      "reviews_description": [
-        {
-          "userName": "Mike",
-          "stars": 4,
-          "comment": "I think that there are very comfortable"
-        }
-      ],
-      "reviews": 4.5,
-      "title": "MINNIE SHOES",
-      "section": "section-footwear",
-      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. SHOES AND WEARING",
-      "description": "PRIMARK COLLECTION SHOES",
-      "price": 26.99
-    },
-    {
       "id": "footwear-section-data-5",
       "img": "https://primedia.primark.com/i/primark/210182407-01?w=1000&h=1000&img404=missing_product&v=1646450207330&locale=es-*,en-*,*",
       "img_2": "https://primedia.primark.com/i/primark/210182407-01?w=1000&h=1000&img404=missing_product&v=1646450207330&locale=es-*,en-*,*",
@@ -957,24 +902,6 @@
       "price": 25
     },
     {
-      "id": "accesories-section-data-10",
-      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
-      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
-      "reviews_description": [
-        {
-          "userName": "Mike",
-          "stars": 4,
-          "comment": "I think that there are very comfortable"
-        }
-      ],
-      "reviews": 4.5,
-      "title": "NECESER BATUK",
-      "section": "section-accesories",
-      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
-      "description": "ACCESORIES & JEWLERY",
-      "price": 30.99
-    },
-    {
       "id": "suggestions-data-1",
       "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
       "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
@@ -1029,24 +956,6 @@
       "price": 30.99
     },
     {
-      "id": "suggestions-data-5",
-      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
-      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
-      "reviews_description": [
-        {
-          "userName": "Mike",
-          "stars": 4,
-          "comment": "I think that there are very comfortable"
-        }
-      ],
-      "reviews": 4.5,
-      "title": "NECESER BATUK",
-      "section": "section-suggestions",
-      "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
-      "description": "ACCESORIES & JEWLERY",
-      "price": 30.99
-    },
-    {
       "id": "suggestions-data-6",
       "img": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.31.jpeg",
       "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-30-at-13.30.33.jpeg",
@@ -1081,6 +990,56 @@
       "long_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ante sollicitudin, rutrum lorem sed, mattis eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eget tellus malesuada, sagittis lorem at, lobortis ante. Pellentesque maximus faucibus leo ut sodales. Mauris tincidunt, neque ac pharetra lacinia, arcu leo interdum nulla, ut egestas leo orci tempus est. Donec tempus gravida ex, vel consectetur lacus tincidunt ut. Aenean euismod pulvinar nunc, ac rutrum lectus vulputate at. Nulla nec leo nec elit fermentum cursus non id risus. ACCESSORIES AND COMPANIONS COLLECTION",
       "description": "ACCESORIES & JEWLERY",
       "price": 30.99
+    },
+    {
+      "id": "15202",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/NICOOKEY-scaled.jpeg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/NICOOKEY-scaled.jpeg",
+      "title": "JACKET DIOR x GUCCI",
+      "description": "Jacket Dior x Gucci",
+      "long_description": "",
+      "price": 243.99,
+      "section": "section-men"
+    },
+    {
+      "id": "12456789",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/GRAYENT.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/GRAYENT.jpg",
+      "title": "Complete Outfit",
+      "description": "Complete Batuk outfit",
+      "long_description": "Pretty complete outfit. ",
+      "price": 350.33,
+      "section": "section-men"
+    },
+    {
+      "id": "456321",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/HAMPMED.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/HAMPMED.jpg",
+      "title": "Hampton Jacket",
+      "description": "Hampton collection ",
+      "long_description": "Hampton Jacket from the new Hampton collection",
+      "price": 99.99,
+      "section": "section-men"
+    },
+    {
+      "id": "456465465",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/GRAYENT.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/GRAYENT.jpg",
+      "title": "Gray's Jacket",
+      "description": "Gray's new collection",
+      "long_description": "Gray's Jacket from Gray's new collection",
+      "price": 125.5,
+      "section": "section-men"
+    },
+    {
+      "id": "S3-04923",
+      "img": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/DONTENT.jpg",
+      "img_2": "https://batukjeans.com.ar/site/wp-content/uploads/2022/03/DONTENT.jpg",
+      "title": "COMPLETE OUTFIT",
+      "description": "Complete Batuk outfit",
+      "long_description": "Complete Outfit from the new Batuk's collection",
+      "price": 203,
+      "section": "section-men"
     }
   ]
 }

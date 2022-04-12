@@ -128,6 +128,11 @@ export const cartReducer = (state = initialState, action) => {
           complete: false,
         },
       };
+    case types.deleteAdminProduct:
+      return {
+        ...state,
+        product: state.product.filter((prod) => prod.id !== action.payload),
+      };
 
     default:
       return state;

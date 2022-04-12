@@ -1,8 +1,10 @@
 import React, { useState } from "react";
-import { useSelector } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
+import { loadDeleteAdminProduct } from "../../actions/cart";
 
 export const SearchProductsComp = () => {
   const { product } = useSelector((state) => state.cart);
+  const dispatch = useDispatch();
   const [optionFilter, setOptionFilter] = useState("");
   const [value, setValue] = useState("");
   const [priceOption, setPriceOption] = useState("");
@@ -32,6 +34,11 @@ export const SearchProductsComp = () => {
     });
     setArray(filterProducts);
   };
+
+  const handleDelete = (id) => {
+    dispatch(loadDeleteAdminProduct(id));
+  };
+
   return (
     <div className="col-12 mt-5">
       <div className="row mt-5">
@@ -141,6 +148,14 @@ export const SearchProductsComp = () => {
                         </td>
                         <td>
                           <p className="text-center">${products.price}</p>
+                        </td>
+                        <td>
+                          <button
+                            className="btn rounded-0 shadow-none"
+                            onClick={() => handleDelete(products.id)}
+                          >
+                            Delete this product
+                          </button>
                         </td>
                       </tr>
                     );

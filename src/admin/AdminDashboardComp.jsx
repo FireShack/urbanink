@@ -108,7 +108,7 @@ export const AdminDashboardComp = () => {
   );
 
   return (
-    <div className="container-fluid">
+    <div className="container">
         <AdminNavSideComp title={"Dashboard"} />
       <div className="row mt-5 mb font-secondary">
         <div className="col">
