@@ -46,6 +46,7 @@ export const UserCart = () => {
                           <img
                             src={`${products.img}`}
                             style={{ height: "8rem" }}
+                            alt="product"
                           />
                         </td>
                         <td>

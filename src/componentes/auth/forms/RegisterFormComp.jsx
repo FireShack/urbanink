@@ -26,7 +26,7 @@ export const RegisterFormComp = () => {
             errors.shortPassword =
               "Your password must have 8 characters, one number and one letter";
           }
-          if (!/^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$/.test(values.mail)) {
+          if (!/^([a-zA-Z0-9_\-.]+)@([a-zA-Z0-9_\-.]+)\.([a-zA-Z]{2,5})$/.test(values.mail)) {
             errors.wrongMail =
               "Your email is wrong";
           }

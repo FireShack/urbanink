@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo } from "react";
+import React, { useMemo } from "react";
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -11,7 +11,7 @@ import {
   Filler,
 } from "chart.js";
 import { Line } from "react-chartjs-2";
-import { useDispatch, useSelector } from "react-redux";
+import { useSelector } from "react-redux";
 
 export const StatisticsComp = () => {
   ChartJS.register(
@@ -29,28 +29,28 @@ export const StatisticsComp = () => {
   );
   const dateMonth = new Date().getMonth() + 1;
 
-  const prevPrevMonthh = adminMonthlyEarned.filter(
-    (products) => products.month === dateMonth - 3
-  );
+  // const prevPrevMonthh = adminMonthlyEarned.filter(
+  //   (products) => products.month === dateMonth - 3
+  // );
 
-  const earnedprevprevMonth = prevPrevMonthh.map((prod) => Number(prod.earned));
-  const totalPrevPrevMonth = earnedprevprevMonth.reduce((a, b) => a + b, 0);
+  // const earnedprevprevMonth = prevPrevMonthh.map((prod) => Number(prod.earned));
+  // const totalPrevPrevMonth = earnedprevprevMonth.reduce((a, b) => a + b, 0);
 
   const prevMonthh = adminMonthlyEarned.filter(
     (products) => products.month === dateMonth - 2
   );
   const earnedprevMonth = prevMonthh.map((prod) => Number(prod.earned));
   const totalPrevMonth = earnedprevMonth.reduce((a, b) => a + b, 0);
-  const prevMonthPer =
-    ((totalPrevMonth - totalPrevPrevMonth) / totalPrevPrevMonth) * 100;
+  // const prevMonthPer =
+  //   ((totalPrevMonth - totalPrevPrevMonth) / totalPrevPrevMonth) * 100;
 
   const lastMonthh = adminMonthlyEarned.filter(
     (products) => products.month === dateMonth - 1
   );
   const earnedLastMonth = lastMonthh.map((prod) => Number(prod.earned));
   const totalLastMonth = earnedLastMonth.reduce((a, b) => a + b, 0);
-  const totalLastMonthPer =
-    ((totalLastMonth - totalPrevMonth) / totalPrevMonth) * 100;
+  // const totalLastMonthPer =
+  //   ((totalLastMonth - totalPrevMonth) / totalPrevMonth) * 100;
 
   const totalMonth = adminMonthEarnedData.reduce(
     (a, b) => Number(a) + Number(b),
@@ -70,14 +70,11 @@ export const StatisticsComp = () => {
           tension: 0.3,
           borderColor: "green",
           backgroundColor: "green",
-          //   segment: {
-          //     borderColor: (context) => (context.p1 > 1000 ? "green" : "red"),
-          //   },
         },
       ],
       labels: labels,
     };
-  }, []);
+  }, [labels, scores]);
 
   const options = {
     fill: false,
@@ -89,9 +86,9 @@ export const StatisticsComp = () => {
     },
   };
 
-  return (
-    <div className="row">
-      <Line data={data} options={options} />
-    </div>
-  );
+  // return (
+  //   <div className="row">
+  //     <Line data={data} options={options} />
+  //   </div>
+  // );
 };

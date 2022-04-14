@@ -80,6 +80,7 @@ export const ShowUserOrderComp = () => {
                       <img
                         src={`${products.img}`}
                         style={{ height: "15rem" }}
+                        alt="product"
                       />
                     </td>
                     <td>

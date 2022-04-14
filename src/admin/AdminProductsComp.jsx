@@ -31,6 +31,20 @@ export const AdminProductsComp = () => {
     });
     console.log(request);
   };
+
+  // const mensProducts = product.filter(
+  //   (products) => products.section === "section-men"
+  // );
+  // const womensProducts = product.filter(
+  //   (products) => products.section === "section-women"
+  // );
+  // const accProducts = product.filter(
+  //   (products) => products.section === "section-accesories"
+  // );
+  // const footProducts = product.filter(
+  //   (products) => products.section === "section-footwear"
+  // );
+
   return (
     <>
       <AdminNavSideComp title={"Products"} />

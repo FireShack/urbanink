@@ -13,11 +13,12 @@ export const orderProducts = (cart, newProduct) => {
   let i = 1;
   const duplicate = cart.some((product) => product.id === newProduct.id);
   if (duplicate) {
-    cart.some((product) => {
+    return cart.some((product) => {
       if (product.id === newProduct.id) {
         product = null;
         newProduct.amount = ++i;
       }
+      return "";
     });
   }
   return (dispatch) => {

@@ -14,7 +14,7 @@ export const TotalComp = () => {
 
   useEffect(() => {
     dispatch(total(finalAmount.toFixed(2)));
-  }, [dispatch]);
+  }, [dispatch, finalAmount]);
 
   return (
     <>

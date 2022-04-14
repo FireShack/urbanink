@@ -1,6 +1,5 @@
 import {
   createUserWithEmailAndPassword,
-  GoogleAuthProvider,
   signInWithEmailAndPassword,
   signInWithPopup,
   signOut,
@@ -17,8 +16,8 @@ export const startLogin = () => {
   return (dispatch) => {
     signInWithPopup(auth, googleAuth)
       .then((result) => {
-        const credential = GoogleAuthProvider.credentialFromResult(result);
-        const token = credential.accessToken;
+        // const credential = GoogleAuthProvider.credentialFromResult(result);
+        // const token = credential.accessToken;
         const user = result.user;
         console.log(user);
         dispatch(loginUser(user.uid, user.displayName, user.photoURL));

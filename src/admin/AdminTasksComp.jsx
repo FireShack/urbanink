@@ -7,7 +7,6 @@ export const AdminTasksComp = () => {
       <AdminNavSideComp title={"Tasks"} />
       <div className="row">
         <div className="col">
-          <h5>Tasks Panel</h5>
         </div>
       </div>
     </div>

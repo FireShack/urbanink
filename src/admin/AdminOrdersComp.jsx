@@ -1,9 +1,9 @@
 import React from "react";
-import { useSelector } from "react-redux";
+// import { useSelector } from "react-redux";
 import { AdminNavSideComp } from "./AdminNavSideComp";
 
 export const AdminOrdersComp = () => {
-  const {} = useSelector((state) => state.admin);
+  // const {} = useSelector((state) => state.admin);
   return (
     <div className="container-fluid">
       <AdminNavSideComp title={"Orders"} />

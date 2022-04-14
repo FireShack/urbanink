@@ -4,7 +4,7 @@ import { BiMailSend, BiTask } from "react-icons/bi";
 import { BsBag, BsCurrencyDollar } from "react-icons/bs";
 import { FaShippingFast } from "react-icons/fa";
 import { useDispatch, useSelector } from "react-redux";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { FcBarChart } from "react-icons/fc";
 import {
   startLoadAdminEarnedData,
@@ -32,18 +32,6 @@ export const AdminDashboardComp = () => {
   const navigate = useNavigate();
   const dateData = new Date().toDateString();
   const dateMonth = new Date().getMonth() + 1;
-  const mensProducts = product.filter(
-    (products) => products.section === "section-men"
-  );
-  const womensProducts = product.filter(
-    (products) => products.section === "section-women"
-  );
-  const accProducts = product.filter(
-    (products) => products.section === "section-accesories"
-  );
-  const footProducts = product.filter(
-    (products) => products.section === "section-footwear"
-  );
 
   useEffect(() => {
     dispatch(startLoadAdminOrders());
@@ -53,7 +41,7 @@ export const AdminDashboardComp = () => {
     dispatch(startLoadAdminMonthEarnedData(dateMonth));
     dispatch(startLoadAdminMonthlyEarned());
     dispatch(startLoadAdminUsersAmountData());
-  }, [dispatch]);
+  }, [dispatch, dateData, dateMonth]);
 
   const months = [
     "January",
@@ -69,28 +57,28 @@ export const AdminDashboardComp = () => {
     "November",
     "December",
   ];
-  const prevPrevMonthh = adminMonthlyEarned.filter(
-    (products) => products.month === dateMonth - 3
-  );
+  // const prevPrevMonthh = adminMonthlyEarned.filter(
+  //   (products) => products.month === dateMonth - 3
+  // );
 
-  const earnedprevprevMonth = prevPrevMonthh.map((prod) => Number(prod.earned));
-  const totalPrevPrevMonth = earnedprevprevMonth.reduce((a, b) => a + b, 0);
+  // const earnedprevprevMonth = prevPrevMonthh.map((prod) => Number(prod.earned));
+  // const totalPrevPrevMonth = earnedprevprevMonth.reduce((a, b) => a + b, 0);
 
-  const prevMonthh = adminMonthlyEarned.filter(
-    (products) => products.month === dateMonth - 2
-  );
-  const earnedprevMonth = prevMonthh.map((prod) => Number(prod.earned));
-  const totalPrevMonth = earnedprevMonth.reduce((a, b) => a + b, 0);
-  const prevMonthPer =
-    ((totalPrevMonth - totalPrevPrevMonth) / totalPrevPrevMonth) * 100;
+  // const prevMonthh = adminMonthlyEarned.filter(
+  //   (products) => products.month === dateMonth - 2
+  // );
+  // const earnedprevMonth = prevMonthh.map((prod) => Number(prod.earned));
+  // const totalPrevMonth = earnedprevMonth.reduce((a, b) => a + b, 0);
+  // const prevMonthPer =
+  //   ((totalPrevMonth - totalPrevPrevMonth) / totalPrevPrevMonth) * 100;
 
   const lastMonthh = adminMonthlyEarned.filter(
     (products) => products.month === dateMonth - 1
   );
   const earnedLastMonth = lastMonthh.map((prod) => Number(prod.earned));
   const totalLastMonth = earnedLastMonth.reduce((a, b) => a + b, 0);
-  const totalLastMonthPer =
-    ((totalLastMonth - totalPrevMonth) / totalPrevMonth) * 100;
+  // const totalLastMonthPer =
+  //   ((totalLastMonth - totalPrevMonth) / totalPrevMonth) * 100;
 
   const totalMonth = adminMonthEarnedData.reduce(
     (a, b) => Number(a) + Number(b),
@@ -103,13 +91,13 @@ export const AdminDashboardComp = () => {
 
   const toShip = adminOrders.filter((order) => order.shipped === false);
   const shipped = adminOrders.filter((order) => order.shipped === true);
-  const shipmentProblems = adminOrders.filter(
-    (order) => order.problems[0].exists === true
-  );
+  // const shipmentProblems = adminOrders.filter(
+  //   (order) => order.problems[0].exists === true
+  // );
 
   return (
     <div className="container">
-        <AdminNavSideComp title={"Dashboard"} />
+      <AdminNavSideComp title={"Dashboard"} />
       <div className="row mt-5 mb font-secondary">
         <div className="col">
           <div style={{ marginBottom: "4rem" }}>
@@ -119,7 +107,7 @@ export const AdminDashboardComp = () => {
                 <h1>Hi, Username</h1>
               </div>
               <div className="col-6 text-center">
-                <small className="">You have n Notifications</small>
+                <small className="">You have 2 Notifications</small>
               </div>
             </div>
             <div className="row">

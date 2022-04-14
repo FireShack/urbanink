@@ -15,22 +15,18 @@ export const SearchProductsComp = () => {
     const filterProducts = product.filter((product) => {
       if (filterCat === "All products") {
         return product;
-      }
-      if (optionFilter === "" || value === "") {
-        return;
-      }
-      if (filterCat === "id") {
+      } else if (optionFilter === "" || value === "") {
+        return "";
+      } else if (filterCat === "id") {
         return product.id.toLowerCase().includes(filterParam);
-      }
-      if (filterCat === "section") {
+      } else if (filterCat === "section") {
         return product.section.toLowerCase().includes(filterParam);
-      }
-      if (filterCat === "price") {
+      } else if (filterCat === "price") {
         return product.price >= Number(filterParam);
-      }
-      if (filterCat === "title") {
+      } else if (filterCat === "title") {
         return product.title.toLowerCase().includes(filterParam);
       }
+      return "";
     });
     setArray(filterProducts);
   };
@@ -138,6 +134,7 @@ export const SearchProductsComp = () => {
                           <img
                             src={`${products.img}`}
                             style={{ height: "8rem" }}
+                            alt="product"
                           />
                         </td>
                         <td>

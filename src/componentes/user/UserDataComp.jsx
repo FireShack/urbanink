@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { UserNavSideComp } from "./UserNavSideComp";
 
 export const UserDataComp = () => {

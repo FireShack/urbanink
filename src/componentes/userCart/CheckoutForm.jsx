@@ -19,11 +19,9 @@ import {
   payedState,
   saveData,
   fillOrderDate,
-  cleanUserData,
 } from "../../actions/cart";
 import uniqid from "uniqid";
 import { init } from "@emailjs/browser";
-import emailjs from "@emailjs/browser";
 
 export const CheckoutForm = () => {
   const elements = useElements();
@@ -48,22 +46,22 @@ export const CheckoutForm = () => {
   const year = dateNow.getFullYear();
 
   const orderId = uniqid("order-");
-  const orderToMail = cart.map((products) => {
-    return (
-      <>
-        <img src={`${products.img}`} style={{ height: "8rem" }} />
-        <p className="text-center">{products.title}</p>
-        <p className="text-center">{products.amount}</p>
-        <p className="text-center">${products.price}</p>
-      </>
-    );
-  });
+  // const orderToMail = cart.map((products) => {
+  //   return (
+  //     <>
+  //       <img src={`${products.img}`} style={{ height: "8rem" }} alt="" />
+  //       <p className="text-center">{products.title}</p>
+  //       <p className="text-center">{products.amount}</p>
+  //       <p className="text-center">${products.price}</p>
+  //     </>
+  //   );
+  // });
   init("0BwEQS_LfPO0ozSES");
-  const templateParams = {
-    user_email: `${userData.mail}`,
-    to_name: `${userData.name}`,
-    my_html: { orderToMail },
-  };
+  // const templateParams = {
+  //   user_email: `${userData.mail}`,
+  //   to_name: `${userData.name}`,
+  //   my_html: { orderToMail },
+  // };
 
   const handleSubmit = async (e) => {
     e.preventDefault();

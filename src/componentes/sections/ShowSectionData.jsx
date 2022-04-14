@@ -28,6 +28,7 @@ export const ShowSectionData = ({ filterParam }) => {
           product.amount = product.amount + 1;
           return product;
         }
+        return ""
       });
       const updated = update.filter((product) => product !== undefined);
       dispatch(repeatedItemfromCart(updated));

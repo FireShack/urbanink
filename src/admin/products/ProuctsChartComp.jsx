@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React, { useMemo } from "react";
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -30,14 +30,12 @@ export const ProuctsChartComp = () => {
   const mostWanted = orders.map((global) => {
     return global.map((prod) => prod.title);
   });
-  //   console.log(mostWanted);
-
   let mf = 1;
   let m = 0;
   let item;
   for (let i = 0; i < mostWanted[6].length; i++) {
     for (let j = i; j < mostWanted[6].length; j++) {
-      if (mostWanted[6][i] == mostWanted[6][j]) m++;
+      if (mostWanted[6][i] === mostWanted[6][j]) m++;
       if (mf < m) {
         mf = m;
         item = mostWanted[6][i];
@@ -63,7 +61,7 @@ export const ProuctsChartComp = () => {
       ],
       labels: [item],
     };
-  }, []);
+  }, [item, mf]);
 
   const options = {
     fill: false,

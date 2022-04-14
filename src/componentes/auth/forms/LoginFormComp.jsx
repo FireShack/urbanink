@@ -2,13 +2,12 @@ import { Formik } from "formik";
 import React from "react";
 import { Alert } from "react-bootstrap";
 import { useDispatch, useSelector } from "react-redux";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { loginMailPassword, startLogin } from "../../../actions/auth";
 import { FcGoogle } from "react-icons/fc";
 
 export const LoginFormComp = () => {
   const dispatch = useDispatch();
-  const navigate = useNavigate();
   const { msg } = useSelector((state) => state.ui);
   const handleGoogleLogin = () => {
     console.log("Starting login");

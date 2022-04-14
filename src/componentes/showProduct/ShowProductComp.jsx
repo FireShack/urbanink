@@ -36,6 +36,7 @@ export const ShowProductComp = () => {
           product.amount = product.amount + 1;
           return product;
         }
+        return ""
       });
       const updated = update.filter((product) => product !== undefined);
       dispatch(repeatedItemfromCart(updated));

@@ -9,7 +9,7 @@ export const UserOrdersComp = () => {
   useEffect(() => {
     dispatch(startLoadUserData(userAuthData.uid));
     dispatch(startLoadUserOrderId(userAuthData.uid));
-  }, [dispatch]);
+  }, [dispatch, userAuthData.id, userAuthData.uid]);
 
   return (
     <div className="container-fluid mt-5">
@@ -77,9 +77,6 @@ export const UserOrdersComp = () => {
     </div>
   );
 };
-{
-  /* // {orderAuthId !== null ? ( */
-}
 
 // ) : (
 //   <div className="row mt-5">

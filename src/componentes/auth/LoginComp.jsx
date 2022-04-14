@@ -1,11 +1,7 @@
 import React from "react";
-import { FcGoogle } from "react-icons/fc";
 import { LoginFormComp } from "./forms/LoginFormComp";
 
 export const LoginComp = () => {
-  const handleGoogleLogin = () => {
-    console.log("Google login");
-  };
   return (
     <div className="container-fluid">
       <div className="row">

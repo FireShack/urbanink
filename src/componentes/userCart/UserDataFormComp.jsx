@@ -39,7 +39,7 @@ export const UserDataFormComp = () => {
             errors.empty = "All fields must be completed";
           }
           if (
-            !/^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$/.test(
+            !/^([a-zA-Z0-9_\-.]+)@([a-zA-Z0-9_\-.]+)\.([a-zA-Z]{2,5})$/.test(
               values.mail
             )
           ) {
