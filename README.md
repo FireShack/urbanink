@@ -37,3 +37,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+## How to deploy this app in firebase hosting
+
+1. First you run "npm install -g firebase-tools" with npm or some other package manager like yarn
+2. After that go to your project's directory and run "npm run build" to compile your project into a folder
+3. In the same directory run "firebase init hosting" and answer firebase questions to complete the setup.
+       - Set up build folder as the public !IMPORTANT 
+       - Note that, in this case, i use react-route-dom, so at the question "set up like a SPA" select "y" !IMPORTANT
+5. After the setup, you need to deploy the app, so run "firebase deploy"
+6. Done!
